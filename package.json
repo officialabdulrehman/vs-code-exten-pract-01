@@ -1,0 +1,24 @@
+{
+  "name": "vs-code-exten-prac-01",
+  "version": "0.0.1",
+  "description": "Weeb Stuff",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialabdulrehman/vs-code-exten-pract-01.git"
+  },
+  "keywords": [
+    "weeb",
+    "vs-code",
+    "extension"
+  ],
+  "author": "NizTheDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/officialabdulrehman/vs-code-exten-pract-01/issues"
+  },
+  "homepage": "https://github.com/officialabdulrehman/vs-code-exten-pract-01#readme"
+}
